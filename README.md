@@ -26,8 +26,5 @@ Federated Learning (FL) is a technique that allows a single machine to learn fro
 ## Steps to Implement
 1. Start the centralized server – `server.py`.
 2. Run the client according to the required number of silos – `client.py`.
-    \item Start the centralized server – \texttt{server.py}.
-    \item Run the client according to the required number of silos – \texttt{client.py}.
-\end{enumerate}
 
-\end{document}
+
